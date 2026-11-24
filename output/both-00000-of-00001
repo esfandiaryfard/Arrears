@@ -1,0 +1,9 @@
+CUST-006: card: Liam O'Connor 3 fraud_points | loan: Liam O'Connor 11 missed; Liam O'Connor 3 missed
+CUST-004: card: Noah Williams 3 fraud_points | loan: Noah Williams 3 missed; Noah Williams 11 missed
+CUST-007: card: Chloe Dubois 1 fraud_points | loan: Chloe Dubois 3 missed; Chloe Dubois 11 missed
+CUST-003: card: Aisha Khan 3 fraud_points | loan: Aisha Khan 11 missed; Aisha Khan 3 missed
+CUST-005: card: Sofia Rossi 3 fraud_points | loan: Sofia Rossi 3 missed; Sofia Rossi 11 missed
+CUST-008: card: Ethan Brown 1 fraud_points | loan: Ethan Brown 3 missed; Ethan Brown 11 missed
+CUST-002: card: Marcus Johnson 3 fraud_points | loan: Marcus Johnson 3 missed; Marcus Johnson 11 missed
+CUST-001: card: Elena Martinez 3 fraud_points | loan: Elena Martinez 11 missed; Elena Martinez 3 missed
+CUST-009: card: Mei Lin 3 fraud_points | loan: Mei Lin 3 missed; Mei Lin 11 missed

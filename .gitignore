@@ -1,6 +1,3 @@
 .venv/
 __pycache__/
-output/
-cards.csv
-loan.csv
 *.py[cod]
